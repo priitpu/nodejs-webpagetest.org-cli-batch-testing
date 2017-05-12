@@ -1,0 +1,23 @@
+{
+  "name": "bulktest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "line-by-line": "^0.1.5",
+    "request": "^2.81.0"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "line-by-line": "^0.1.5",
+    "request": "^2.81.0"
+  }
+}
